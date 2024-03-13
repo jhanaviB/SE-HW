@@ -1,0 +1,16 @@
+{
+  "name": "se_hw3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "average.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "type":"module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
