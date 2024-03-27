@@ -1,0 +1,7 @@
+ORDER_ID, Item,Quantity, Price, Formula
+1,Tea,1,4, =SUM(C2:C3)
+2,Cookies (2 Dozen),2,42," =IF (A2=C2,8,-5)"
+3,Doughnuts (Pack of 12),1,11, =SUM(D2:D3)
+4,Coffee,1,4, =AVERAGE(C2:D3)
+5,Shrimp Tempura,2,36, =SUM(D2:E3)
+6,Japanese Soda,1,4, =COUNT(D2:E3)
