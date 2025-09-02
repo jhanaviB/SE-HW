@@ -14,7 +14,7 @@ This repository contains my homework assignments for the ECE: 567 **Software Eng
 * **README.md** – Overview of the repository and its assignments.
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 * Practical experience with **file processing** and **data validation**.
 * Exposure to **client-server architecture**.
